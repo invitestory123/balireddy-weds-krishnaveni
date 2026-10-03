@@ -629,10 +629,12 @@ html, body {
 
 .blessing-label {
   font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-size: 0.92rem;
   font-style: italic;
   color: var(--color-gold-light);
   letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 6px;
 }
 
 .blessing-person {
